@@ -1,0 +1,262 @@
+Create table Padmavat_Express_14207_08(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Old Delhi Railway Station(DLI)','0','---','19:50','10');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','20','20:32','20:32','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Hapur Railway Station(HPU)','57','21:12','21:14','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amroha Railway Station(AMRO)','130','22:06','22:08','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Moradabad Railway Station(MB)','161','23:05','23:15','10');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','188','23:41','23:43','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bareilly Railway Station(BE)','252','00:40','00:43','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Shahjehanpur Railway Station(SPN)','322','01:47','01:49','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Hardoi Railway Station(HRI)','385','02:33','02:35','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Lucknow Railway Station(LKO)','487','04:20','04:30','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bachhrawan Railway Station(BCN)','534','05:20','05:22','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rae Bareli Railway Station(RBL)','564','06:05','06:15','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jais Railway Station(JAIS)','593','06:47','06:49','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gauriganj Railway Station(GNG)','611','07:04','07:06','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amethi Railway Station(AME)','625','07:21','07:23','02');
+Insert into Padmavat_Express_14207_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Partapgarh Junction(PBH)','660','08:20','---','02');
+  
+Create table JANTA_EXPRESS_14265_66(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun(DDN)','0','---','18:15','0');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Doiwala Railway Station(DWO)','20','18:48','18:50','02'); 
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','52','19:50','20:25','35');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Laksar Junction(LRJ)','79','21:10','21:15','05');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Chandok Railway Station(CNK)','102','21:47','21:49','02');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dhampur Railway Station(DPR)','159','22:53','22:55','02');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','246','01:02','01:07','05');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Shahjehanpur Railway Station(SPN)','380','03:15','03:18','03');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Balamu Junction(BLM)','475','05:03','05:05','02');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gauriganj Railway Station(GNG)','669','10:24','10:25','01');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Badshahpur Railway Station(BSE)','754','12:29','12:31','02');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Suriawan Railway Station(SAW)','775','13:12','13:13','01');
+Insert into JANTA_EXPRESS_14265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Varanasi Junction(BSB)','845','15:35','---','02');
+
+Create table Jdhpr_Hwh_Express_12307_08(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jodhpur Railway Station(JU)','0','---','20:30','00');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Degana Junction(DNA)','149','22:43','22:46','03');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Makrana Junction(MKN)','193','23:19','23:22','03');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jaipur Railway Station(JP)','312','01:50','02:10','20');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Achhnera Junction(AH)','527','05:08','05:10','02');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Tundla Junction(TDL)','576','07:35','07:40','05');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Allahabad Junction(ALD)','1001','14:00','14:10','10');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mughal Sarai Junction(MGS)','1150','16:50','17:05','15');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gaya Junction(GAYA)','1354','19:50','19:55','05');
+Insert into Jdhpr_Hwh_Express_12307_08(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolkata Howrah Junction(HWH)','1812','04:00','---','00');
+
+Create table Kashi_Express_14257_58(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Delhi Railway Station(NDLS)','0','---','11:35','0');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','26','12:18','12:20','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Pilkhua Railway Station(PKW)','52','12:45','12:47','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gajraula Junction(GJL)','114','13:51','13:53','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','194','15:38','15:40','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Tilhar Railway Station(TLH)','310','17:28','17:30','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Hardoi Railway Station(HRI)','391','19:00','19:02','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Lucknow Railway Station(LKO)','493','21:35','21:50','15');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jais Railway Station(JAIS)','599','23:53','23:55','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amethi Railway Station(AME)','631','00:24','00:26','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Partapgarh Junction(PBH)','666','01:05','01:10','05');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Sewapuri Railway Station(SWPR)','771','03:40','03:42','02');
+Insert into Kashi_Express_14257_58(Station, Distance, Arrival_time, Departure_time, Halt) Values('Varanasi Junction(BSB)','794','04:35','---','0');
+ 
+Create table Bikaner_Delhi_Express_22471_72(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bikaner Junction(BKN)','0','---','09:30','00');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Napasar Railway Station(NPS)','27','09:53','09:55','02');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rajaldesar Railway Station(RJR)','120','11:10','11:12','02');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Churu Railway Station(CUR)','180','12:15','12:20','05');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Loharu Railway Station(LHU)','287','13:50','13:55','05');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mahendragarh Railway Station(MHRG)','329','14:23','14:25','02');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rewari Railway Station(RE)','379','15:50','15:55','05');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gurgaon Railway Station(GGN)','430','16:31','16:33','02');
+Insert into Bikaner_Delhi_Express_22471_72(Station, Distance, Arrival_time, Departure_time, Halt) Values('Delhi Sarai Rohilla(DEE)','457','17:25','---','0');
+
+Create table Punjab_mail_13005_06(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amritsar Junction(ASR)','0','---','18:40','0');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Phagwara Junction(PGW)','100','20:20','20:22','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rajpura Junction(RPJ)','221','22:33','22:35','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Roorkee Railway Station(RK)','365','01:45','01:47','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Laksar Junction(LRJ)','383','02:07','02:10','03');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Moradabad Railway Station(MB)','523','04:37','04:45','08');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Roza Junction(ROZA)','692','07:36','07:38','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Balamu Junction(BLM)','780','08:58','09:00','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bachhrawan Railway Station(BCN)','896','11:39','11:41','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amethi Railway Station(AME)','987','13:10','13:12','02');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mughal Sarai Junction(MGS)','1169','17:53','18:13','20');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Asansol Junction(ASN)','1711','03:59','04:04','05');
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Barddhaman Junction(BWN)','1817','05:46','05:50','04'); 
+Insert into Punjab_mail_13005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolkata Howrah Junction(HWH)','1911','07:20','---','0');
+
+Create table IND_DDN_EXPRESS_14137_18(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Indore Junction Bg(INDB)','0','---','15:00','0');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ujjain Railway Station(UJN)','80','16:30','16:55','25');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Shajapur Railway Station(SFY)','149','18:06','18:08','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ruthiyai Railway Station(RTA)','314','20:45','20:47','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Miyana Railway Station(MINA)','366','21:58','22:00','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolaras Railway Station(KLRS)','412','22:45','22:47','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gwalior Railway Station(GWL)','562','03:10','03:20','10');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dhaulpur Railway Station(DHO)','628','05:50','05:52','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mathura Railway Station(MTJ)','734','08:05','08:10','05');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Faridabad Railway Station(FDB)','847','10:20','10:22','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','891','12:08','12:10','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Modinagar Railway Station(MDNR)','918','12:32','12:34','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Deoband Railway Station(DBD)','1017','13:50','13:52','02');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','1132','17:20','17:35','15');
+Insert into IND_DDN_EXPRESS_14137_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','1183','19:40','---','00');
+
+Create table NANDA_DEVI_EXP_12205_06(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','0','---','23:35','0');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','52','00:55','01:00','05');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Roorkee Railway Station(RK)','93','01:41','01:43','02');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Muzaffarnagar Railway Station(MOZ)','176','02:51','02:53','02');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Meerut City Railway Station(MTC)','232','03:34','03:37','03');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','279','04:33','04:35','02');
+Insert into NANDA_DEVI_EXP_12205_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Delhi Railway Station(NDLS)','305','05:20','---','00');
+
+Create table Nauchandi_express_14511_12(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Saharanpur Railway Station(SRE)','00','---','16:50','00');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Muzaffarnagar Railway Station(MOZ)','59','17:49','17:51','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Meerut City Railway Station(MTC)','114','19:15','20:10','55');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Garhmuktesar Railway Station(GMS)','173','21:38','21:40','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amroha Railway Station(AMRO)','217','22:19','22:21','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','275','23:37','23:39','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Shahjehanpur Railway Station(SPN)','409','01:40','01:42','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Lucknow Railway Station(LKO)','573','05:05','05:25','20');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Unchahar Junction(UCR)','689','07:42','07:44','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Garhi Manikpur(GRMR)','707','08:05','08:06','01');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Phaphamau Junction(PFM)','761','09:12','09:14','02');
+Insert into Nauchandi_express_14511_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Allahabad Junction(ALD)','774','09:55','---','00');
+
+Create table Saraighat_express_12345_46(Station varchar(40),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolkata Howrah Junction(HWH)','0','---','15:50','00');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Barddhaman Junction(BWN)','94','17:04','17:06','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Hat Railway Station(RPH)','206','18:56','18:58','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Farakka Junction(NFK)','293','20:43','20:45','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kishanganj Railway Station(KNE)','473','23:35','23:37','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Cooch Behar(NCB)','686','04:18','04:20','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kamakhya Railway Station(KYQ)','1013','09:28','09:30','02');
+Insert into Saraighat_express_12345_46(Station, Distance, Arrival_time, Departure_time, Halt) Values('Guwahati Railway Station(GHY)','1020','09:50','---','00');
+
+Create table Doon_Express_13009_10(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolkata Howrah Junction(HWH)','0','---','20:25','0');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Asansol Junction(ASN)','213','00:06','00:11','05');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Paharpur Railway Station(PRP)','438','04:06','04:08','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Durgauti Railway Station(DGO)','630','07:28','07:30','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jaunpur Junction(JNU)','751','11:36','11:38','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ayodhya Railway Station(AY)','882','13:53','13:55','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Balamu Junction(BLM)','1086','19:42','19:44','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','1315','23:36','23:38','02');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','1509','04:45','05:25','40');
+Insert into Doon_Express_13009_10(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','1561','07:35','---','0');
+
+Create table Hw_Ald_Express_14116_17(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','0','---','16:05','0');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Najibabad Junction(NBD)','69','17:32','17:35','03');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rampur Railway Station(RMU)','195','19:59','20:02','03');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bareilly Railway Station(BE)','258','21:20','21:25','05');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Hardoi Railway Station(HRI)','391','23:27','23:30','03');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rae Bareli Railway Station(RBL)','550','02:40','04:45','05');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amethi Railway Station(AME)','631','03:45','03:47','02');
+Insert into Hw_Ald_Express_14116_17(Station, Distance, Arrival_time, Departure_time, Halt) Values('Allahabad Junction(ALD)','725','07:05','---','0');
+
+Create table Swarn_Stbdi_Express_12003_04(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Lucknow Junction(LJN)','0','---','15:35','0');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kanpur Central Railway Station(CNB)','74','16:50','16:55','05');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Etawah Railway Station(ETW)','212','18:10','18:17','07');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Tundla Junction(TDL)','304','19:20','19:22','02');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Aligarh Junction(ALJN)','382','20:08','20:10','02');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','488','21:30','21:32','02');
+Insert into Swarn_Stbdi_Express_12003_04(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Delhi Railway Station(NDLS)','511','22:15','---','0');
+
+Create table Ddn_Stbdi_Express_12017_18(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Delhi Railway Station(NDLS)','0','---','06:45','0');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghaziabad Railway Station(GZB)','26','07:23','07:25','02');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Meerut City Railway Station(MTC)','73','08:03','08:05','02');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Saharanpur Railway Station(SRE)','186','09:50','10:10','20');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Roorkee Railway Station(RK)','221','10:38','10:40','02');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Haridwar Junction(HW)','262','11:22','11:27','05');
+Insert into Ddn_Stbdi_Express_12017_18(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','314','12:40','---','0');
+
+Create table Neelanchal_Express_12875_76(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+ 
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Puri Railway Station(PURI)','0','---','10:55','0');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jajpur Keonjhar Road (JJKR)','150','13:50','13:56','06');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jaleswar Railway Station(JER)','309','16:04','16:14','10');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ghatsila Railway Station(GTS)','479','18:52','18:56','04');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Muri Railway Station(MURI)','619','22:18','22:24','06');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Koderma Railway Station(KQR)','797','01:40','01:45','05');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Rafiganj Railway Station(RFJ)','910','03:41','03:45','04');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mughal Sarai Junction(MGS)','1077','06:17','06:37','20');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bhadohi Railway Station(BOY)','1140','08:17','08:21','04');
+Insert into Neelanchal_Express_12875_76(Station, Distance, Arrival_time, Departure_time, Halt) Values('Delhi Anand Vihar(ANVT)','1400','21:35','---','0');  
+
+Create table Sushasan_Express_11111_12(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Balrampur Railway Station(BLP)','0','---','11:55','0');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Lucknow Railway Station(LKO)','150','15:25','15:35','10');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bareilly Railway Station(BE)','391','19:47','19:52','05');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Moradabad Railway Station(MB)','482','21:33','21:40','07');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Faridabad Railway Station(FDB)','671','01:18','01:22','04');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Morena Railway Station(MRA)','917','05:12','05:17','05');
+Insert into Sushasan_Express_11111_12(Station, Distance, Arrival_time, Departure_time, Halt) Values('Gwalior Railway Station(GWL)','956','06:10','---','0');
+  
+Create table WB_Smpkrti_Express_12329_30(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kolkata Sealdah Railway Station(SDAH)','0','---','13:10','0');
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Barddhaman Junction(BWN)','104','14:38','14:42','04');
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Asansol Junction(ASN)','210','16:00','16:05','05');
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Mughal Sarai Junction(MGS)','672','23:00','23:05','05');
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kanpur Central Railway Station(CNB)','1015','03:55','03:59','04');
+Insert into WB_Smpkrti_Express_12329_30(Station, Distance, Arrival_time, Departure_time, Halt) Values('Delhi Anand Vihar(ANVT)','1450','11:50','---','0');
+
+Create table Jblpr_Ambkpr_Express_11265_66(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Jabalpur Junction(JBP)','0','---','14:00','0');
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Katni South(KTES)','90','15:15','15:25','10');
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Birsinghpur Railway Station(BRS)','181','17:13','17:18','05');
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Anuppur Junction(APR)','259','19:00','19:05','05');
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Bijuri Railway Station(BJRI)','306','19:56','20:01','05');
+Insert into Jblpr_Ambkpr_Express_11265_66(Station, Distance, Arrival_time, Departure_time, Halt) Values('Ambikapur Railway Station(ABKP)','333','23:00','---','0');
+
+Create table Link_Express_14114_15(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','0','---','13:20','0');
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Laksar Junction(LRJ)','79','15:40','15:45','05');
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Najibabad Junction(NBD)','120','16:27','16:32','05');
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dhampur Railway Station(DPR)','159','17:08','17:10','02');
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Chandausi Junction(CH)','262','19:45','19:55','10');
+Insert into Link_Express_14114_15(Station, Distance, Arrival_time, Departure_time, Halt) Values('Aligarh Junction(ALJN)','361','22:25','---','0');
+
+Create table NDLS_Kalka_Mail_12005_06(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into NDLS_Kalka_Mail_12005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('New Delhi Railway Station(NDLS)','0','---','17:15','0');
+Insert into NDLS_Kalka_Mail_12005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kurukshetra Junction(KKDE)','157','19:05','19:07','02');
+Insert into NDLS_Kalka_Mail_12005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Chandigarh Railway Station(CDG)','266','20:40','20:45','05');
+Insert into NDLS_Kalka_Mail_12005_06(Station, Distance, Arrival_time, Departure_time, Halt) Values('Kalka Railway Station(KLK)','303','21:20','---','0');
+
+Create table DDN_ASR_EXPRESS_14631_32
+(Station varchar(60),Distance varchar(10), Arrival_time varchar(10), Departure_time varchar(10),Halt varchar(10));
+
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Dehradun Railway Station(DDN)','0','---','19:00','0');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Roorkee Railway Station(RK)','97','23:03','23:05','02');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Yamunanagar Jud Railway Station(YJUD)','162','00:31','00:35','04');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Sirhind Junction(SIR)','266','03:01','03:03','02');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Phillaur Junction(PHR)','340','04:33','04:37','04');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Beas Railway Station(BEAS)','420','06:26','06:29','03');
+Insert into DDN_ASR_EXPRESS_14631_32(Station, Distance, Arrival_time, Departure_time, Halt) Values('Amritsar Junction(ASR)','462','07:30','---','0');
+
+Create table Ticket_booking(userid varchar(20),pnr varchar(10) primary key,Name varchar(20),train_name varchar(20),Source varchar(10),Destination varchar(10),Dates date,No_of_people number(2),ac varchar(10),seats varchar(20),ticket varchar(10));
+
+create table Loginid(username varchar(20) primary key, name varchar(20),email varchar(20), password varchar(20))

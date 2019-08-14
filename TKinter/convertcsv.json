@@ -1,0 +1,2258 @@
+[
+ {
+   "Name": "Shankey",
+   "IdCustomer": 1,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "No",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 2,
+   "Age": 46,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "Yes",
+   "WiFi": "No",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "No"
+},
+ {
+   "Name": "",
+   "IdCustomer": 3,
+   "Age": 30,
+   "DaysBooking": 4,
+   "HotelStar": 2,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "No",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Non-Ac"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "Utkarsh",
+   "IdCustomer": 4,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "Yes",
+   "WiFi": "No",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "No"
+},
+ {
+   "Name": "",
+   "IdCustomer": 5,
+   "Age": 22,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "Yes",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 6,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "low",
+   "Breakfast": "Yes",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "komal",
+   "IdCustomer": 7,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 8,
+   "Age": 23,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 9,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 2,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "No"
+},
+ {
+   "Name": "Abhishek Chauhan",
+   "IdCustomer": 10,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 2,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 5000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 11,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 2,
+   "No.OfPerson": 3,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 12,
+   "Age": 40,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Deepchand",
+   "IdCustomer": 13,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 14,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 15,
+   "Age": 50,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Shikhar",
+   "IdCustomer": 16,
+   "Age": 44,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 17,
+   "Age": 22,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 18,
+   "Age": 35,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "No",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3500,
+   "Booked": "no"
+},
+ {
+   "Name": "Riya",
+   "IdCustomer": 19,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 20,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 21,
+   "Age": 40,
+   "DaysBooking": 5,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "Shreya",
+   "IdCustomer": 22,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 2000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 23,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 6000,
+   "Booked": "No"
+},
+ {
+   "Name": "",
+   "IdCustomer": 24,
+   "Age": 40,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "Vishal",
+   "IdCustomer": 25,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 2,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 26,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 27,
+   "Age": 50,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "no"
+},
+ {
+   "Name": "Gaurav Agrawal",
+   "IdCustomer": 28,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2500,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 29,
+   "Age": 50,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 30,
+   "Age": 60,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Vaishnavi",
+   "IdCustomer": 31,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 32,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 33,
+   "Age": 50,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Nikhil A.",
+   "IdCustomer": 34,
+   "Age": 22,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 35,
+   "Age": 34,
+   "DaysBooking": 2,
+   "HotelStar": 2,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 36,
+   "Age": 56,
+   "DaysBooking": 1,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4500,
+   "Booked": "no"
+},
+ {
+   "Name": "Sai Pavan",
+   "IdCustomer": 37,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 38,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 39,
+   "Age": 50,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 6000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Govind",
+   "IdCustomer": 40,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 41,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 42,
+   "Age": 24,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Sugandha",
+   "IdCustomer": 43,
+   "Age": 29,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 44,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 2,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 45,
+   "Age": 22,
+   "DaysBooking": 3,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Manjari",
+   "IdCustomer": 46,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 47,
+   "Age": 25,
+   "DaysBooking": 5,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 48,
+   "Age": 35,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Vibhuti",
+   "IdCustomer": 49,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 50,
+   "Age": 35,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 51,
+   "Age": 40,
+   "DaysBooking": 3,
+   "HotelStar": 2,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "Sanjana",
+   "IdCustomer": 52,
+   "Age": 25,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 6000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 53,
+   "Age": 34,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 3,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 54,
+   "Age": 36,
+   "DaysBooking": 5,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4500,
+   "Booked": "no"
+},
+ {
+   "Name": "Rajat",
+   "IdCustomer": 55,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 56,
+   "Age": 32,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 6000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 57,
+   "Age": 25,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 2500,
+   "Booked": "yes"
+},
+ {
+   "Name": "Rohit",
+   "IdCustomer": 58,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 59,
+   "Age": 30,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 3,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 60,
+   "Age": 45,
+   "DaysBooking": 5,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Samarth",
+   "IdCustomer": 61,
+   "Age": 38,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 62,
+   "Age": 32,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 63,
+   "Age": 28,
+   "DaysBooking": 5,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non AC"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Prakhar",
+   "IdCustomer": 64,
+   "Age": 30,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 65,
+   "Age": 26,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 66,
+   "Age": 21,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Shubhi",
+   "IdCustomer": 67,
+   "Age": 19,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "High",
+   "Breakfast": "Yes",
+   "WiFi": "Yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "Yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 68,
+   "Age": 32,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 69,
+   "Age": 46,
+   "DaysBooking": 5,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Prashant",
+   "IdCustomer": 70,
+   "Age": 20,
+   "DaysBooking": 3,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Non AC"
+   },
+   "Price": 1000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 71,
+   "Age": 30,
+   "DaysBooking": 5,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 72,
+   "Age": 50,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "Ripudaman",
+   "IdCustomer": 73,
+   "Age": 18,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "yes"
+   },
+   "Price": 2000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 74,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "no"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 75,
+   "Age": 27,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "yes"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Sakshi",
+   "IdCustomer": 76,
+   "Age": 23,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "No",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 77,
+   "Age": 28,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "No",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 78,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Manjinder Singh",
+   "IdCustomer": 79,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 80,
+   "Age": 28,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 81,
+   "Age": 35,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "Juhi",
+   "IdCustomer": 82,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 5,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 83,
+   "Age": 36,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 84,
+   "Age": 21,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Rishita Kotiyal",
+   "IdCustomer": 85,
+   "Age": 22,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 86,
+   "Age": 29,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 87,
+   "Age": 33,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 5,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Sanket Singla",
+   "IdCustomer": 88,
+   "Age": 19,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 89,
+   "Age": 25,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 5,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 90,
+   "Age": 37,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "varunendr Dev Singh",
+   "IdCustomer": 91,
+   "Age": 11,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 92,
+   "Age": 12,
+   "DaysBooking": 1,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 93,
+   "Age": 15,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "HARSH GUPTA",
+   "IdCustomer": 94,
+   "Age": 20,
+   "DaysBooking": 5,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 95,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 96,
+   "Age": 40,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "Harsh Joshi",
+   "IdCustomer": 97,
+   "Age": 18,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 3,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 98,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 99,
+   "Age": 58,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5000,
+   "Booked": "no"
+},
+ {
+   "Name": "Shubhi Jain",
+   "IdCustomer": 100,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 101,
+   "Age": 24,
+   "DaysBooking": 2,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non AC"
+   },
+   "Price": 2500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 102,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "prabhjot",
+   "IdCustomer": 103,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non AC"
+   },
+   "Price": 1500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 104,
+   "Age": 55,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 105,
+   "Age": 35,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3500,
+   "Booked": "yes"
+},
+ {
+   "Name": "Srishti Nigam",
+   "IdCustomer": 106,
+   "Age": 40,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 5000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 107,
+   "Age": 25,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Non AC"
+   },
+   "Price": 3500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 108,
+   "Age": 35,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "AC"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Adesh",
+   "IdCustomer": 109,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 110,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 2000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 111,
+   "Age": 52,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "High",
+   "Breakfast": "yes",
+   "WiFi": "No",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "No"
+},
+ {
+   "Name": "pranshul",
+   "IdCustomer": 112,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "High",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 113,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 114,
+   "Age": 50,
+   "DaysBooking": 1,
+   "HotelStar": 4,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 115,
+   "Age": 45,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 2500,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 116,
+   "Age": 34,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3500,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 117,
+   "Age": 35,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Priyanka",
+   "IdCustomer": 118,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 3500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 119,
+   "Age": 30,
+   "DaysBooking": 4,
+   "HotelStar": 2,
+   "No.OfPerson": 4,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 120,
+   "Age": 40,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "aayush",
+   "IdCustomer": 121,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 5000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 122,
+   "Age": 30,
+   "DaysBooking": 1,
+   "HotelStar": 2,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 123,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 1,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3800,
+   "Booked": "yes"
+},
+ {
+   "Name": "Himanshi",
+   "IdCustomer": 124,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 125,
+   "Age": 30,
+   "DaysBooking": 3,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 126,
+   "Age": 45,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3500,
+   "Booked": "yes"
+},
+ {
+   "Name": "Muskan",
+   "IdCustomer": 127,
+   "Age": 21,
+   "DaysBooking": 1,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 2000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 128,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 129,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "Rishabh Arya",
+   "IdCustomer": 130,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "medium",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 131,
+   "Age": 40,
+   "DaysBooking": 3,
+   "HotelStar": 1,
+   "No.OfPerson": 3,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 132,
+   "Age": 21,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4500,
+   "Booked": "yes"
+},
+ {
+   "Name": "Devansh",
+   "IdCustomer": 133,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 134,
+   "Age": 45,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 5,
+   "Season": "high",
+   "Breakfast": "no",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 1500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 135,
+   "Age": 27,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 3,
+   "Season": "medium",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 3500,
+   "Booked": "no"
+},
+ {
+   "Name": "Aman Jain",
+   "IdCustomer": 136,
+   "Age": 30,
+   "DaysBooking": 2,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 137,
+   "Age": 20,
+   "DaysBooking": 4,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 4000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 138,
+   "Age": 20,
+   "DaysBooking": 2,
+   "HotelStar": 3,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "Ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "Pankaj Rawat",
+   "IdCustomer": 139,
+   "Age": 40,
+   "DaysBooking": 4,
+   "HotelStar": 3,
+   "No.OfPerson": 1,
+   "Season": "high",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "ac"
+   },
+   "Price": 4500,
+   "Booked": "yes"
+},
+ {
+   "Name": "",
+   "IdCustomer": 140,
+   "Age": 35,
+   "DaysBooking": 2,
+   "HotelStar": 5,
+   "No.OfPerson": 2,
+   "Season": "low",
+   "Breakfast": "yes",
+   "WiFi": "no",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 3000,
+   "Booked": "no"
+},
+ {
+   "Name": "",
+   "IdCustomer": 141,
+   "Age": 20,
+   "DaysBooking": 1,
+   "HotelStar": 4,
+   "No.OfPerson": 4,
+   "Season": "low",
+   "Breakfast": "no",
+   "WiFi": "yes",
+   "Ac": {
+      "Non AC": "non ac"
+   },
+   "Price": 2500,
+   "Booked": "yes"
+}
+]
